@@ -1,8 +1,8 @@
-id=template
-name=Template Module
+id=shamuLowNotificationVolumeFix
+name=Low Notification Volume Fix for Nexus 6 7.1.1
 version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
-support=http://forum.xda-developers.com/showthread.php?t=3432382
-donate=http://topjohnwu.github.io/donate
+versionCode=001
+author=txtsd
+description=Low Notification Volume Fix for Nexus 6 7.1.1 only
+support=https://forum.xda-developers.com/nexus-6/themes-apps/mod-low-notification-volume-fix-nexus-6-t3535372
+donate=https://www.paypal.me/txtsd
