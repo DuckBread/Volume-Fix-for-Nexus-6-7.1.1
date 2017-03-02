@@ -12,7 +12,7 @@ Applies a patched version of `audio_effects.conf` with specific lines commented 
 * 7.1.1 (Any security patch)
 
 # Changes
-v1 - Initial release
+* v1 - Initial release
 
 
 #### Thread: https://forum.xda-developers.com/nexus-6/themes-apps/mod-low-notification-volume-fix-nexus-6-t3535372
